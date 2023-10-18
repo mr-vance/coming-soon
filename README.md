@@ -1,5 +1,7 @@
 # Game Coming Soon Countdown Timer
 
+![readme-image](readme.png)
+
 This project is a simple countdown timer for an upcoming game release. It counts down the days, hours, minutes, and seconds remaining until the game's launch.
 
 ## Table of Contents
